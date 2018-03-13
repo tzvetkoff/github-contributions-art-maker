@@ -1,0 +1,6 @@
+# Ruby
+/vendor
+
+# Some other stuff
+*.txt
+*.sh
